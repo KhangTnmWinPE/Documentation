@@ -35,3 +35,8 @@ a{
 .index_links:hover{
     color:crimson;
 }
+
+.smallNotes{
+    font-size: 90%;
+    font-style: italic;
+}
